@@ -14,4 +14,4 @@ You can learn your code, but it's very important to understand your code.
 
 **[Class-&-Object](https://github.com/Anjali-jha-508/CPP-Practice-Qs/tree/main/Class-%26-object)**
 
-[]
+**[Functions-&-Class](https://github.com/Anjali-jha-508/CPP-Practice-Qs/tree/main/Function-%26-class)**
