@@ -5,7 +5,7 @@
 </p>
 
 
-To know about this repo, click on [IntroToTheRepo.md] 
+To know about this repo, click on *[IntroToTheRepo.md](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/IntroToTheRepo.md)*  
 
 This repo has different branches, covering practice questions based on different topics.
 
