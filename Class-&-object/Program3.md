@@ -50,7 +50,7 @@ The area of the rectangle is: 20      (after pressing enter)
       <a href="https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Class-%26-object/Program2.md">← Previous</a>
     </td>
     <td align="right">
-      <a href="https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Class-%26-object/Program2.md">Next →</a>
+      <a href="https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Class-%26-object/Program4.md">Next →</a>
     </td>
   </tr>
 </table>
