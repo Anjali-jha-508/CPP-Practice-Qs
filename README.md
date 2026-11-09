@@ -16,8 +16,11 @@ This repo has different branches, covering practice questions based on different
 3. [Function & Class](https://github.com/Anjali-jha-508/CPP-Practice-Qs/tree/main/Function-%26-class)   
 
 
+<h2>  <p align=center  >
+<b> Happy Programming!! </b>
+</p> </h2>
 
-#### Happy Programming!!
+
 <p align=center>
 
 <img src=https://i.pinimg.com/736x/ca/69/a4/ca69a47424dc5bf5ecc5085c20ad89d8.jpg width="400" height="200">
