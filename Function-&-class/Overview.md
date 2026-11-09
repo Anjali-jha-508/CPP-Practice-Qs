@@ -42,7 +42,10 @@ Programs given below are almost same as what we referred earlier, yet by this we
 
 These programs are same as what we saw few programs ago, just the way to writing it have changed.
 
+
 > When we have to define a function outside the class, we need to remember a major syntax which will link the outside function and the class. This is also called as defining a function using scope resolution (::)
+>
+> Here we before defining the function outside the class, we initially mention them inside the class in the format: <kbd>datatype function_name();</kbd>
   
 >  ### Syntax: 
 ``` 
