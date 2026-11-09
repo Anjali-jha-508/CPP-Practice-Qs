@@ -60,7 +60,7 @@ datatype class_name::function_name()
 
 [Program 15:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program15.md) Write a CPP program to create a class Product and implement a function outside the class to calculate the total price.
 
-[Program 16:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program16.md) Write a CH program to create a class Number with a function cube() defined outside the class to calculate the cube of a number.
+[Program 16:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program16.md) Write a CPP program to create a class Number with a function cube() defined outside the class to calculate the cube of a number.
   
 [Program 17:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program17.md) Write a program to create a class Employee with data members name and salary. Define one function inside the class and another function utside the class to display the employee details.
 
