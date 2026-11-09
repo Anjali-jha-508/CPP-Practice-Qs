@@ -1,4 +1,4 @@
- # Practice programs based on "class and functions" in CPP
+ice programs based on "class and functions" in CPP
  
 This page contains some practice questions in C++ regarding class and function of the class. It will include Function Inside the Class, Function Outside the Class , calling of function from class to main, etc.
 
@@ -42,15 +42,20 @@ Programs given below are almost same as what we referred earlier, yet by this we
 
 These programs are same as what we saw few programs ago, just the way to writing it have changed.
 
-[Program 12:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program12.md) Write a CPP program to create a class Student and define the display() member function outside the class 
-using the scope resolution operator ::.
+> When we have to define a function outside the class, we need to remember a major syntax which will link the outside function and the class. This is also called as defining a function using scope resolution (::)
+  
+>  ### Syntax: 
+``` 
+datatype class_name::function_name()
+```
+
+[Program 12:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program12.md) Write a CPP program to create a class Student and define the display() member function outside the class using the scope resolution operator ::.
 
 [Program 13:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program13.md) Write a CPP program to create a class Rectangle and implement the area() function outside the class. 
 
 [Program 14:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program14.md) Write a CPP program to create a class Calculator and define arithmetic functions outside the class. 
 
-[Program 15:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program15.md) Write a CPP program to create a class Product and implement a function outside the class to calculate the 
-total price.
+[Program 15:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program15.md) Write a CPP program to create a class Product and implement a function outside the class to calculate the total price.
 
 [Program 16:](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/Function-%26-class/Program16.md) Write a CH program to create a class Number with a function cube() defined outside the class to calculate the cube of a number.
   
