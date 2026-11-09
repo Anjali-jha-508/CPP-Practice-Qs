@@ -9,6 +9,13 @@ To know about this repo, click on *[IntroToTheRepo.md](https://github.com/Anjali
 
 This repo has different branches, covering practice questions based on different topics.
 
+## 📖 Course Index
+
+1. [Introduction to the Repo](https://github.com/Anjali-jha-508/CPP-Practice-Qs/blob/main/01_IntroToTheRepo.md) 
+2. [Class & Object](https://github.com/Anjali-jha-508/CPP-Practice-Qs/tree/main/Class-%26-object)
+3. [Function & Class](https://github.com/Anjali-jha-508/CPP-Practice-Qs/tree/main/Function-%26-class)   
+
+
 
 #### Happy Programming!!
 <p align=center>
