@@ -2,7 +2,8 @@
 
 Write a CPP program to create a class Student with a default constructor that displays "Hello Student".
 
-```cpp#include <iostream>
+```cpp
+#include <iostream>
 #include <string>
 using namespace std;
 
