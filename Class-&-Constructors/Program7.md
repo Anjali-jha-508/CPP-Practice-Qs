@@ -9,7 +9,7 @@ class Circle{
 public:
 int radius;
 
-Rectangle() {
+Circle() {
     radius = 5;
 }
 void display() {
